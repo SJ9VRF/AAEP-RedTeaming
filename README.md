@@ -7,7 +7,7 @@ The Automated Adversarial Evaluation Pipeline (AAEP) is designed to systematical
 
 ## Overview
 
-The Automated Adversarial Evaluation Pipeline (AAEP) is designed to enhance the robustness of large language models (LLMs) by systematically identifying, evaluating, and mitigating adversarial vulnerabilities. This project addresses the scalability challenges in traditional red teaming approaches, which rely heavily on manual testing and are not feasible for today's rapidly evolving AI models. AAEP integrates advanced techniques from evolutionary algorithms, reinforcement learning, and automated risk evaluations to provide a comprehensive and scalable solution to safeguard LLMs against a wide range of adversarial threats.
+The Automated Adversarial Evaluation Pipeline (AAEP) is designed to enhance the robustness of large language models (LLMs) by systematically identifying, evaluating, and mitigating adversarial vulnerabilities. This project addresses the scalability challenges in traditional red teaming approaches, which rely heavily on manual testing and are not feasible for today's rapidly evolving AI models. AAEP integrates techniques from evolutionary algorithms, reinforcement learning, and automated risk evaluations to provide a comprehensive and scalable solution to safeguard LLMs against a wide range of adversarial threats.
 
 ## Methodology
 
